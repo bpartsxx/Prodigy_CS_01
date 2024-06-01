@@ -7,7 +7,6 @@ Encrypt/Decrypt text using this simple tool based on the Caesar Cipher.
 
 ```
 python3 ccipher.py 
-
 ```
 
 
